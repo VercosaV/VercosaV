@@ -60,7 +60,7 @@
 <p align="left">
   <a href="victorhvercosag@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorhvercosag@gmail.com" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/victor-deverçosa" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/victor-deverçosa" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/vercosa_victor" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
@@ -75,9 +75,5 @@
 <!-- ![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github.com/VercosaV/VercosaV/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
