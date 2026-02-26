@@ -75,5 +75,5 @@
 <!-- ![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
-  <img src="https://github.com/VercosaV/VercosaV/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="[https://github.com/VercosaV/VercosaV/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/VercosaV/VercosaV/refs/heads/output/github-contribution-grid-snake.svg)" alt="Snake Animation">
 </div>
