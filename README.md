@@ -72,8 +72,12 @@
   💻 Sempre tentando aprender algo novo e evoluir como dev!
 </div>
 
-<!-- ![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg) -->
+## 🐍 Jogo da Cobrinha
 
 <div align="center">
-  <img src="[https://github.com/VercosaV/VercosaV/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/VercosaV/VercosaV/refs/heads/output/github-contribution-grid-snake.svg)" alt="Snake Animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/VercosaV/VercosaV/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
